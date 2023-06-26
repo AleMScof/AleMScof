@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/alessiocru" target="blank"><img src="https://img.shields.io/twitter/follow/alessiocru?logo=twitter&style=for-the-badge" alt="alessiocru" /></a> </p>
 
-- 🔭 I’m currently working on a big data project on Oracle using JHipster for OverIT | **CoverageTool**
+- 🐱‍🏍 I'm working as technical leader and senior geospatial developer in <a href="https://www.e-geos.it/" target="blank">e-GEOS</a> on the IRIDE project 🌐
 
-- 🌱 Yeah, I am learning **Quarkus** at the moment 😊
+- 🌱 Nowadays I'm using Quarkus, Python and Kubernetes 😊
 
-- 👯 I've worked on projects in precision farming, telco and UAV mapping for E-geos | **FarmingApp**
+- 🔭 I’ve worked on a big data project on Oracle using JHipster for OverIT | **CoverageTool**
+  
+- 👯 I've worked on projects in precision farming, telco and UAV mapping for Telespazio | **FarmingApp**
 
 - 💁🏽 I’ve started my career collaborating on a software based on QGIS, Openlayers and Wavemaker for GeoDataLab | **GeoBonifiche** ( which is widely used in south of Italy for Field Service Management ) 
 
